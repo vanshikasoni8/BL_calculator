@@ -1,5 +1,9 @@
 class calculator{
 
+public static int  str(inht a, int b ){
+return a/b;
+}
+
 public static void main (String str){
 }
 
