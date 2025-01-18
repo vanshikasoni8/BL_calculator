@@ -1,4 +1,7 @@
 class calculator{
+public static int sub(int a, int b ){
+return a-b;
+}
 
 public satic string main (int a , int b ){
 return a+b;
