@@ -8,4 +8,6 @@ task 3 : addition fumctin added
 
 task 4:  subtraction added
 
+task 5: multi added
 
+task 6:  div added
